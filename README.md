@@ -1,4 +1,6 @@
-# React + Vite
+# GifExpertApp de React + Vite
+
+Este es mi repositorio del proyecto de GifExpertApp trabajado en el curso de Fernando, en mi caso uso npm y no yearn
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
